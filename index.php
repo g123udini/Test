@@ -9,10 +9,3 @@ print "{$humb}$, </br> {$shake}$,</br>  $coke$,</br>  $tax$,</br>  $tea$";
 print('<br>');
 $month = date('n');
 print($month);
-
-$getprice = function ($price, $tax, $algin) {
-$algin = $price - $tax;
-for ($i += 1) {
-    $numbers[$i] = $grade += $name;
-}
-$conn = 1;
