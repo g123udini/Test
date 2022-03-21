@@ -15,4 +15,4 @@ $algin = $price - $tax;
 for ($i += 1) {
     $numbers[$i] = $grade += $name;
 }
-$conn;
+$conn = 1;
