@@ -15,6 +15,4 @@ $algin = $price - $tax;
 for ($i += 1) {
     $numbers[$i] = $grade += $name;
 } 
-$conn = mysqli(); {
-    inwrew
-}
+$conn = mysqli();<div class=""></div>
